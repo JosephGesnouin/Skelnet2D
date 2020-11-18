@@ -7,5 +7,5 @@
 | MaxPooling     | 94.76%     | 95.60%     | %          |
 | **SHREC 28**       |            |            |            |
 |                | 16 filters | 32 filters | 64 filters |
-| AveragePooling | 93.21%          | %          | %          |
+| AveragePooling | 93.21%          | 93.93%          | %          |
 | MaxPooling     | %          | %          | %          |
