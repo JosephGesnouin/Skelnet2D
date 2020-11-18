@@ -8,4 +8,9 @@
 | **SHREC 28**       |            |            |            |
 |                | 16 filters | 32 filters | 64 filters |
 | AveragePooling | 93.21%          | 93.93%          | %          |
-| MaxPooling     | %          | %          | %          |
+| MaxPooling     | 92.98%          | 93.21%          | %          |
+
+
+Conclusion: Average seems to works slightly better than Max, specifically for the 28 classes case.
+
+Choice: continue Skelnet2D with Average Pooling and GlobalAveragePooling2D.
