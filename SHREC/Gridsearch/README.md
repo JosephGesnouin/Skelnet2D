@@ -47,17 +47,17 @@ Choice: continue Skelnet2D with Average Pooling and GlobalAveragePooling2D.
 
 * **Batch_size**
 
-Best: 0.905357 using {'batch_size': 64}
-0.896071 (0.023629) with: {'batch_size': 8}
-0.901071 (0.023766) with: {'batch_size': 16}
-0.902143 (0.043195) with: {'batch_size': 32}
-0.905357 (0.041687) with: {'batch_size': 64}
-0.898214 (0.042691) with: {'batch_size': 128}
-0.905000 (0.039640) with: {'batch_size': 256}
+
+| **Shrec 14, 16 filters** |   |    |    |    |     |     |
+|----------------------|---|----|----|----|-----|-----|
+| Batch Size           | 8 | 16 | 32 | 64 | 128 | 256 |
+| Accuracy             | 89.6% ± 0.02 | 90.1% ± 0.02  | 90.2% ± 0.04  | 90.5% ± 0.04  | 89.8% ± 0.04   | 90.5% ± 0.04   |
+
+
+* **LeakyRelu*
 
 
 * **SpatialDroput**
 
 * **Dropout**
 
-* **LeakyRelu*
