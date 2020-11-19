@@ -1,2 +1,0 @@
-# Skelnet2D
- 

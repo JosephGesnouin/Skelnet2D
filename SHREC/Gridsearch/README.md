@@ -35,7 +35,7 @@ Conclusion: Average seems to works slightly better than Max
 
 Choice: continue Skelnet2D with Average Pooling and GlobalAveragePooling2D.
 
-* **Optimizer**
+* **Init**
 
 * **SequenceLength**
 
@@ -44,7 +44,5 @@ Choice: continue Skelnet2D with Average Pooling and GlobalAveragePooling2D.
 * **SpatialDroput**
 
 * **Dropout**
-
-* **Init**
 
 * **LeakyRelu*
