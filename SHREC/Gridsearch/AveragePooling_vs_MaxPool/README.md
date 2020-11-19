@@ -8,7 +8,7 @@
 | **SHREC 28**       |            |            |            |
 |                | 16 filters | 32 filters | 64 filters |
 | AveragePooling | 93.21%          | 93.93%          | %          |
-| MaxPooling     | 92.98%          | 93.21%          | %          |
+| MaxPooling     | 92.98%          | 93.21%          | 93.45%          |
 
 
 Conclusion: Average seems to works slightly better than Max, specifically for the 28 classes case.
