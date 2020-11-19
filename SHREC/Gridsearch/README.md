@@ -37,6 +37,12 @@ Choice: continue Skelnet2D with Average Pooling and GlobalAveragePooling2D.
 
 * **Init**
 
+| **Shrec 14**   |         |               |        |      |               |                |           |            |
+|------------|---------|---------------|--------|------|---------------|----------------|-----------|------------|
+| Filtres 16 |         |               |        |      |               |                |           |            |
+|            | Uniform | Lecun Uniform | Normal | Zero | Glorot_normal | Glorot_uniform | He_normal | he_uniform |
+| Accuracy   | 90.3% ± 0.04      | 91.3% ± 0.03            | 90.8% ± 0.03  | 89.6 % ± 0.04  | 90.0% ± 0.03   | 88.1% ± 0.03           | 88.4% ± 0.03             | **91.8% ± 0.02**        |  
+
 * **SequenceLength**
 
 * **Batch_size**
